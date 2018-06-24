@@ -1,0 +1,4 @@
+switch.moteur:
+  icon: mdi:flash
+sensor.etat:
+  icon: mdi:door-open
